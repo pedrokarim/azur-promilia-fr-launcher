@@ -1,0 +1,5 @@
+node_modules/
+*.asar
+*.asar.tmp
+# Textes de Yostar, réécrits par apply sur chaque machine
+source/

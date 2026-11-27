@@ -1,0 +1,3 @@
+# Les .cmd gardent leurs fins de ligne Windows, le reste est en LF.
+* text=auto eol=lf
+*.cmd text eol=crlf
